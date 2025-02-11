@@ -11,7 +11,7 @@ Inspired by - https://www.digitalocean.com/community/tutorials/how-to-generate-a
 
 ## Install Instructions
 
-* Move into the cloned repo directory `cd generate-subtitles`
+* Move into the cloned repo directory `cd subtitle-generator`
 * Create a virtual environment `python3 -m venv .venv`
 * Active the virtual environment `source .venv/bin/activate`
 * Install the Python requirements `python3 -m pip install -r requirements.txt`
